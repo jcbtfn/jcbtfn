@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jcbtfn
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on everything that helps me learn
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning Ruby, HTML, CSS and JavaScript
+- 💞️ I’m looking to collaborate on everything that helps me upskill
 - 📫 How to reach me hello@jacobdmiranda.com
 
 <!---
